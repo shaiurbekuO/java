@@ -1,0 +1,7 @@
+Доработайте программу так, чтобы она вывела на печать фразу We're the champions! 
+
+Sample Input:
+
+Sample Output:
+
+We're the champions!
